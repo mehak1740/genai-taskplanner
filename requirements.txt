@@ -1,0 +1,5 @@
+google-adk
+google-genai
+streamlit
+python-dotenv
+python-multipart
