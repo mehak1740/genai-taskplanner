@@ -11,7 +11,7 @@ from google.adk.agents import LlmAgent, SequentialAgent
 from .tools import search_web, get_current_time, save_to_file
 
 # ─── Model Configuration ─────────────────────────────────────────────
-MODEL_ID = "gemini-2.0-flash"
+MODEL_ID = "gemini-1.5-flash"
 
 # ─── Agent 1: Researcher ─────────────────────────────────────────────
 researcher_agent = LlmAgent(
